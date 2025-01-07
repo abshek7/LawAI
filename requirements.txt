@@ -1,0 +1,11 @@
+PyPDF2==3.0.1
+langchain
+langchain_community
+python-dotenv
+streamlit
+faiss-cpu
+fastembed
+langchain-groq
+tavily-python
+tqdm
+streamlit_extras
