@@ -59,4 +59,4 @@ GenAI Legal Research Assistant specialized by Chain of AI Agents
    - Type your legal questions in the chat input.
    - LawAI will provide answers based on the context and Indian laws.
 
-Made with 💡& ❤️ by [Bharath](https://github.com/bharathajjarapu)
+Made with 💡& ❤️ by [Spoorthik06]((https://github.com/Spoorthik06))
